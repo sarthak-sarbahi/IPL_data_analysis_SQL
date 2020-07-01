@@ -69,4 +69,4 @@ Kaggle: https://www.kaggle.com/manasgarg/ipl
   * Check for all teams and rename duplicates if any ('Rising Pune Supergiants' to 'Rising Pune Supergiant')
 * **Exploratory Data Analysis** (**exploratory_data_analysis.sql**, **percent_toss_win_function.sql** & **percent_toss_winners_match_winners.sql**)
 ## Insights
-The insights that were obtained have been recorded in the **IPL data analysis insights.pdf** file. For a visulaing appealing report, please refer **IPL_Project_Report.pdf**.
+The insights that were obtained have been recorded in the **IPL data analysis insights.pdf** file. For a visually appealing report, please refer **IPL_Project_Report.pdf**.
