@@ -1,7 +1,7 @@
 # IPL Data Analysis using SQL
 
 ## Objective
-Extract insights from the IPL dataset from 2008 and 2017 
+Extract insights from the IPL dataset between 2008 and 2017 
 ## Data Source
 Kaggle: https://www.kaggle.com/manasgarg/ipl
 ## Technologies used
