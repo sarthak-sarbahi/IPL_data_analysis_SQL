@@ -1,3 +1,4 @@
+![](https://lh3.googleusercontent.com/proxy/8yxE8qljsvU6CSnaXiZPeGf1ppNGs05xq_VyGdjzNX1jStJhHrhdN-eD3go2bHuu3w51iArS4x9PzSC9dWbunZFbVFGPTr4DL77l3E0Ees1aWxJGA-tvpLqdaYB7OCpGUcHJ9BNpvypjIn5A)
 # IPL Data Analysis using SQL
 
 ## Objective
@@ -20,7 +21,7 @@ Kaggle: [Indian Premier League (Cricket)](https://www.kaggle.com/manasgarg/ipl)
 ## Dataset
 **The dataset consisted of two CSV files:**
 
-**Deliveries table**
+**1. Deliveries table**
 |Column|Description|
 |---|---|
 |match_id|Unique match ids|
@@ -45,7 +46,7 @@ Kaggle: [Indian Premier League (Cricket)](https://www.kaggle.com/manasgarg/ipl)
 |dismissal_kind|Dismissal type|
 |fielder|Name of the fielder|
 
-**Matches table**
+**2. Matches table**
 |Column|Description|
 |---|---|
 |id|Unique match id|
